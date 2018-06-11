@@ -14,10 +14,10 @@ The recolouring was then done on the resized 116x92 pixel image and also the ima
 I thought the reduced colour and brightness and contrast increase by 5 percent image was the best image and I took it as the base image to which I copy and pasted sections from the other images I preferred. I then manually edited a few bits here and there myself to produce the final image, "Final 116x92 pixel Recoloured Starry Night".
 
 Useful links / Resources I used
-Ed Hall's Starry Night Lego Mosaic http://www.brillig.com/lego/starry_night/ 
-List of stud colours available https://shop.lego.com/en-IE/Pick-a-Brick (enter 3005 in the "Design ID" "Advanced Search" box)
-Explanation of colour difference https://sensing.konicaminolta.us/blog/identifying-color-differences-using-l-a-b-or-l-c-h-coordinates/ 
-Different colour models http://www.colorbasics.com/ColorSpace/ 
-More info in the exact colour of Lego bricks http://www.bartneck.de/2016/09/09/the-curious-case-of-lego-colors/ (Though this was interesting, I scrapped it and just saved the brick images from the official Lego website and used the colour picker tool in Paint.NET to find the RGB values for each colour)
+* Ed Hall's Starry Night Lego Mosaic http://www.brillig.com/lego/starry_night/ 
+* List of stud colours available https://shop.lego.com/en-IE/Pick-a-Brick (enter 3005 in the "Design ID" "Advanced Search" box)
+* Explanation of colour difference https://sensing.konicaminolta.us/blog/identifying-color-differences-using-l-a-b-or-l-c-h-coordinates/ 
+* Different colour models http://www.colorbasics.com/ColorSpace/ 
+* More info in the exact colour of Lego bricks http://www.bartneck.de/2016/09/09/the-curious-case-of-lego-colors/ (Though this was interesting, I scrapped it and just saved the brick images from the official Lego website and used the colour picker tool in Paint.NET to find the RGB values for each colour)
 
 Hope this is of use to someone out there :)
